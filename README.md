@@ -108,7 +108,7 @@ Automatically update shortcodes throughout your entire site:
 
 Replacements made:
 - [favorite_button] becomes [ccc_my_favorite_select_button]
-- [user_favorites] becomes [ccc_my_favorite_list_menu]
+- [user_favorites] becomes [ccc_my_favorite_list_results]
 
 Searches in:
 - ✅ Post content
@@ -239,7 +239,7 @@ My Favorites stores data as:
 | Simple Favorites | My Favorites |
 |-----------------|--------------|
 | [favorite_button] | [ccc_my_favorite_select_button] |
-| [user_favorites] | [ccc_my_favorite_list_menu] |
+| [user_favorites] | [ccc_my_favorite_list_results] |
 
 ---
 
