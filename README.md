@@ -29,13 +29,6 @@ A comprehensive WordPress plugin to migrate user favorites from Simple Favorites
 
 - WordPress 5.0 or higher
 - PHP 7.2 or higher
-- Simple Favorites plugin (with existing data to migrate)
-- My Favorites plugin by WPDevelopers (must be installed and activated)
-
----
-
-- WordPress 5.0 or higher
-- PHP 7.2 or higher
 - **Simple Favorites** plugin By Kyle Phillips (with existing data to migrate)
 - **My Favorites** plugin By Takashi Matsuyama (must be installed and activated)
 
